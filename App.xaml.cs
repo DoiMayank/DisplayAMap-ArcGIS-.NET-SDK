@@ -33,7 +33,7 @@ namespace DisplayAMap
             base.OnStartup(e);
             // Note: it is not best practice to store API keys in source code.
             // The API key is referenced here for the convenience of this tutorial.
-            Esri.ArcGISRuntime.ArcGISRuntimeEnvironment.ApiKey = "AAPK2c7c1186866849fab421733e0da10c0dvPrMoJ92mVwOOCY5YWo4kocj6rlf5DTBL4uC0KuMNosZvCiaUNmb0C4CzYROfSOI";
+            Esri.ArcGISRuntime.ArcGISRuntimeEnvironment.ApiKey = "API KEY";
         }
 
     }
